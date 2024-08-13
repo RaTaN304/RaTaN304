@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SultanBajaifer my name is sultan
-- 👀 I’m interested in ... AI
-- 🌱 I’m currently learning ... Web programming
-- 💞️ I’m looking to collaborate on ... AI projects
+- 👀 I’m interested in ... Software Development
+- 🌱 I’m currently learning ... Advance Web programming
+- 💞️ I’m looking to collaborate on ... Web or Mobile projects
 - 📫 How to reach me ...
 My what'sup number +966 53 283 9958
 <!---
